@@ -270,6 +270,4 @@ def discordBot():
 
 
 if __name__ == '__main__':
-    #token = 'ODk0OTg4OTYzODcyMzk1MzI1.YVyBbQ.OUuatVTIGZzZKVJEvA2yTNeQ-kg'
-    #PATH = 'C:\Program Files (x86)\chromedriver.exe'
     discordBot()
