@@ -1,4 +1,4 @@
-# Discord-Zalando-Discount-Codes-PROXY-AVAILABLE-
+# Discord-Zalando-Discount-Codes-PROXY-AVAILABLE
 Zalando Discount Codes generator discord bot.
 
 This program generates Zalando discount codes using Selenium. This code is very simple and easy to understand.
