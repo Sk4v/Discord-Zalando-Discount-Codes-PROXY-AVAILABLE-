@@ -9,6 +9,8 @@ Paste the chromedriver path on the variable PATH in the main.py file (ex: C:\Pro
 
 Your bot token is required (https://www.writebots.com/discord-bot-token/), you need to paste it on the token variable on main.py file. 
 
+TO USE PRIVATE PROXY WITH AUTH YOU NEED TO PUT YOUR PROXY AS STRING IN "proxy" VARIABLE IN LINE 26.
+
 Once the bot is online you can check if it is running using the following command.
 ![WhatsApp Image 2021-11-10 at 21 49 58 (1)](https://user-images.githubusercontent.com/44948225/141191885-f22eee39-c887-4d20-8ae8-6646596ad036.jpeg)
 
